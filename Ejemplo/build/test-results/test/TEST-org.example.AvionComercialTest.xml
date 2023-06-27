@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.AvionComercialTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-06-27T00:08:04" hostname="NACHO" time="0.035">
+  <properties/>
+  <testcase name="testVolar()" classname="org.example.AvionComercialTest" time="0.035"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

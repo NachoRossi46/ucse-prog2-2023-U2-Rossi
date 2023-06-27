@@ -1,0 +1,2 @@
+JMH S 27 org.example.StreamBenchmark S 73 org.example.jmh_generated.StreamBenchmark_resultParaleloBenchmark_jmhTest S 23 resultParaleloBenchmark S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 27 org.example.StreamBenchmark S 75 org.example.jmh_generated.StreamBenchmark_resultSecuencialBenchmark_jmhTest S 25 resultSecuencialBenchmark S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
